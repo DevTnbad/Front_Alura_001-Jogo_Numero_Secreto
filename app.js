@@ -71,3 +71,4 @@ function reiniciarJogo() {
 }
 
 exibirMensagemInicial();
+

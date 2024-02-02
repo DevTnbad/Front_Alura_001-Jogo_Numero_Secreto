@@ -1,0 +1,1 @@
+console.log(`${1}, teste ${2+2}!`)
